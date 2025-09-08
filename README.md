@@ -1,6 +1,9 @@
 # Marketing-Campaign-Effectiveness-Analysis
-Enhancing Profit Growth Through Data-Driven Insights
-By Shivam Rawal
+## Enhancing Profit Growth Through Data-Driven Insights
+### By Shivam Rawal
+
+---
+
 Project Objective
 Objective: Conduct a data-driven analysis of marketing campaigns to measure effectiveness, optimize ad spend, and provide actionable insights for improving conversions and profit growth.
 Key Stages:
