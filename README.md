@@ -1,4 +1,4 @@
-# Marketing-Campaign-Effectiveness-Analysis
+# Marketing Campaign Effectiveness Analysis
 ## Enhancing Profit Growth Through Data-Driven Insights
 ### By Shivam Rawal
 
