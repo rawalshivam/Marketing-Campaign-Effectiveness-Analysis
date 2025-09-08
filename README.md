@@ -16,21 +16,21 @@ Computed key metrics: CTR (Click-Through Rate), CPC (Cost Per Click), and ROI (R
 Analyzed distribution of clicks and conversions.
 Conducted correlation analysis between spend and conversions.
 Created visualizations to understand campaign performance trends.
-6. Insights & Analysis
+5. Insights & Analysis
 Identified campaigns with the highest ROI.
 Highlighted inefficiencies in campaigns with high spend but low conversions.
 Found patterns in CTR and CPC across different campaigns.
-8. Strategic Implications
+6. Strategic Implications
 Formulated strategies based on insights:
 Reallocate budget toward high-ROI campaigns.
 Optimize ad creatives and targeting to improve CTR.
 Reduce spending on underperforming campaigns.
-10. Future Opportunities
+7. Future Opportunities
 Outlined potential areas for further analysis:
 Campaign-level segmentation (e.g., by region, device, or customer type).
 A/B testing analysis for ad creatives.
 Time-series analysis of spend vs. conversions.
-12. Report Writing
+8. Report Writing
 Summarized findings in a structured format.
 Created actionable recommendations for marketing teams.
 Designed visual dashboards using Python (Matplotlib) for stakeholder presentation.
